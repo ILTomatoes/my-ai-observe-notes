@@ -1,8 +1,6 @@
 ---
 date: 2026-06-03
 tags: [AI, Agent, Multi-Agent, Coze, Claude, Multica]
-authors:
-  - liuguodong
 summary: "扣子、Claude Dynamic Workflow、Multica 三个切入点,讲的是同一件事——AI 从单核工具走向多核组织。"
 ---
 
