@@ -2,7 +2,7 @@
 date: 2026-06-04
 tags: [AI, Agent, VibeCoding, OPC, Hermes, OpenClaw, Coze, Multica]
 authors:
-  - 刘国栋
+  - liuguodong
 summary: "AI 智能体在分成两条路,花叔聊杠杆论和 Vibe Business,我试着把它们拼在一起看。"
 ---
 

@@ -37,8 +37,7 @@ theme:
     code: JetBrains Mono
 
 nav:
-  - 博客:
-    - blog/index.md
+  - 首页: index.md
   - 关于: about.md
 
 plugins:
