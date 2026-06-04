@@ -20,6 +20,13 @@
 - **简介**: 扣子 3.0、Claude Dynamic Workflow、Multica 三个切入点,同一个方向:AI 从单核工具走向多核组织。
 - **阅读**: [完整内容](articles/2026-06-03_ai-paradigm-shift.md)
 
+## 2026-06-04 · AI 智能体的两条路,和一个不变的东西
+
+- **来源**: 花叔 / 浪子无为 综合
+- **标签**: #AI #Agent #VibeBusiness #OPC #Hermes
+- **简介**: 超级智能体 vs 多智能体协作两条路,Vibe Coding 5% vs Vibe Business 95%,杠杆论——人负责判断这件事砍不掉。
+- **阅读**: [完整内容](articles/2026-06-04_ai-agent-directions.md)
+
 ## 收录分类
 
 - **单篇笔记**:一篇原文的综合 + 自己的观察
