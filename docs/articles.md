@@ -13,6 +13,13 @@
 
 暂无收录。
 
+## 2026-06-03 · 同一天看到 3 篇 AI 文章,它们讲的是同一件事
+
+- **来源**: 扣子官方 / AgenticAI / Lumiscale 三家综合
+- **标签**: #AI #Agent #Multi-Agent #范式转变
+- **简介**: 扣子 3.0、Claude Dynamic Workflow、Multica 三个切入点,同一个方向:AI 从单核工具走向多核组织。
+- **阅读**: [完整内容](articles/2026-06-03_ai-paradigm-shift.md)
+
 ## 收录分类
 
 - **单篇笔记**:一篇原文的综合 + 自己的观察
